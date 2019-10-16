@@ -1,7 +1,7 @@
 {
   "port": 8080,
   "secret":"b0cbcef5a486d9636472ac27f8e11a9d",
-  "server": "52.18.167.83",
+  "server": "http://easy-mt-proto-john10170.apps.us-west-2.starter.openshift-online.com/",
   "indexPort": 80,
   "channel": "ketabshows"
 }
